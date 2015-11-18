@@ -1,6 +1,6 @@
 {
   "name": "angular-jwplayer",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "authors": [
     "david sendelbach",
     "guillaume cisco"
@@ -39,7 +39,7 @@
     "angular-sanitize": "~1.2.0",
     "angular-touch": "~1.2.0",
     "angular-route": "~1.2.0",
-    "jwplayer-mirror": "https://github.com/jordanbaucke/jwplayer-mirror.git#7.1.4-nomin"
+    "jwplayer-mirror": "https://github.com/jordanbaucke/jwplayer-mirror.git#7.1.4-min"
   },
   "devDependencies": {}
 }
