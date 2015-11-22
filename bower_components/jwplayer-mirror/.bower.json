@@ -1,6 +1,41 @@
 {
-  "name": "jwplayer-mirror",
+  "name": "JW Player Mirror",
+  "version": "7.2.2",
+  "main": [
+    "dist/jwplayer.flash.swf",
+    "dist/jwpayer.js",
+    "dist/polyfills.base64.js",
+    "dist/polyfills.promise.js",
+    "dist/provider.cast.js",
+    "dist/provider.shaka.js",
+    "dist/provider.youtube.js",
+    "dist/jwplayer.html5.min.js",
+    "dist/skins/beelden.css",
+    "dist/skins/bekle.css",
+    "dist/skins/five.css",
+    "dist/skins/glow.css",
+    "dist/skins/roundster.css",
+    "dist/skins/seven.css",
+    "dist/skins/six.css",
+    "dist/skins/stormtrooper.css",
+    "dist/skins/vapor.css",
+    "README.md",
+    "README.html"
+  ],
+  "description": "Unofficial JW Player repository accessible via Bower",
+  "license": "",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
   "homepage": "https://github.com/jordanbaucke/jwplayer-mirror",
-  "_source": "git://github.com/jordan/jwplayer-mirror.git",
-  "_direct": true
+  "_release": "7.2.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "7.2.2",
+    "commit": "ebb01d53576c034769a8ed45279fbe8d8030891a"
+  },
+  "_source": "https://github.com/jordanbaucke/jwplayer-mirror.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jordanbaucke/jwplayer-mirror.git"
 }
